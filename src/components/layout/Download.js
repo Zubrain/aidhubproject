@@ -10,7 +10,7 @@ class Download extends Component {
             <ul className='clearfix'>
               <li>
                 <a href='#'>
-                  <i className='fab fa-github'></i>
+                  <i className='fab fa-apple'></i>
                 </a>
                 <span>App Store</span>
               </li>
